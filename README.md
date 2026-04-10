@@ -6,7 +6,7 @@ This project is a WiFi controlled mini tank. It is fully 3D printable and does n
 ## Video Tutorial
 Build your own following the step-by-step guide!
 
-[![Watch the tutorial](https://img.youtube.com/vi/2wIOvS5U6aM/0.jpg)](https://www.youtube.com/watch?v=2wIOvS5U6aM)  https://youtu.be/2wIOvS5U6aM
+[![Watch the tutorial](https://img.youtube.com/vi/2wIOvS5U6aM/0.jpg)](https://www.youtube.com/watch?v=2wIOvS5U6aM)
 
 ## Repository Structure
 When you download and extract the repository, you will find two different folders.
